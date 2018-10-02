@@ -8,5 +8,3 @@ which meets score over 200.
 It takes about 1 hour for 1000 episodes for estimation.
 
 
-
-Private REPO: https://github.gatech.edu/fxiao9/RL_Project2
